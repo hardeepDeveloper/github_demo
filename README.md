@@ -4,4 +4,4 @@ This is a simple readme file
 
 # Heading text
 
-Mergig bounds
+Bound some more trouble while merging
